@@ -1,4 +1,4 @@
-                 <img src="https://readme-typing-svg.herokuapp.com?color=4F46E5&size=25&center=true&vCenter=true&width=500&lines=Web+Developer;AI+Enthusiast;Problem+Solver" />
+<h1 align="left">    </h1><img src="https://readme-typing-svg.herokuapp.com?color=4F46E5&size=25&center=true&vCenter=true&width=500&lines=Web+Developer;AI+Enthusiast;Problem+Solver" />
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
 <h3 align="center">🚀 Web Developer | AI Enthusiast | Problem Solver</h3>
 
