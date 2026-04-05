@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech CSE (2022–2026)
+* 🎓 B.Tech CSE (2023–2027)
 * 💡 Passionate about AI & Web Development
 * 🤖 Built real-time Face Recognition System (~90% accuracy)
 * 📈 Strong in DSA & system design
