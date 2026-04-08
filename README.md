@@ -36,8 +36,6 @@
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
 
----
-<img src="https://readme-typing-svg.herokuapp.com?color=4F46E5&size=25&center=true&vCenter=true&width=500&lines=Web+Developer;AI+Enthusiast;Problem+Solver" />
 
 ## 📊 GitHub Stats
 
