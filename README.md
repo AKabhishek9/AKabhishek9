@@ -1,56 +1,123 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=4F46E5&size=25&center=true&vCenter=true&width=500&lines=Web+Developer;AI+Enthusiast;Problem+Solver" /></h1>
-<h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
-<h3 align="center">🚀 Web Developer | AI Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi, I'm Abhishek Yadav 👋</h1>
+
+<h3 align="center">
+Full Stack Developer • AI Enthusiast • Problem Solver
+</h3>
+
+<p align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?color=4F46E5&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Real-World+Projects;DSA+%7C+Web+Development+%7C+AI" />
+  </a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# About Me
 
-* 🎓 B.Tech CSE (2023–2027)
-* 💡 Passionate about AI & Web Development
-* 🤖 Built real-time Face Recognition System (~90% accuracy)
-* 📈 Strong in DSA & system design
-
----
-
-## 🚀 Projects
-
-* 🌦 Weather App – Real-time API-based web app
-* 🤖 Face Recognition – OpenCV + MediaPipe
-* 📊 Data Dashboard – Power BI insights
+- B.Tech Computer Science Student (2023 – 2027)
+- Passionate about Full Stack Development, AI, and Problem Solving
+- Built real-world projects using REST APIs, OpenCV, Next.js, and MongoDB
+- Strong foundation in DSA, DBMS, Operating Systems, and Computer Networks
+- Interested in building scalable and impactful software products
 
 ---
 
-## 📄 Research
+# Projects
 
-* 📑 Published Research Paper
-  👉 https://jsiar.com/JSIAR-A-25-04107.html
+### Weather Web Application
+Responsive weather application using OpenWeatherMap API with real-time weather updates and 5-day forecast support.
 
----
-
-## 🛠 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=AKabhishek9\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AKabhishek9\&layout=compact\&theme=tokyonight)
+**Tech Stack:** HTML, CSS, JavaScript, REST API
 
 ---
 
-## 🔗 Connect With Me
+### Real-Time Face Recognition System
+Built a multi-face recognition system using OpenCV, MediaPipe, and ArcFace achieving ~90% accuracy.
 
-* 💼 LinkedIn: https://www.linkedin.com/in/ak-abhishek9/
-* 🌐 Portfolio: https://myportfolio-2dc17.web.app/
+**Tech Stack:** Python, OpenCV, MediaPipe, ArcFace
 
 ---
 
-## ⚡ Fun Fact
+### QuizAI – AI-Powered Adaptive Quiz Platform
+AI-powered quiz platform with personalized question generation, authentication, and full-stack deployment.
 
-I love building real-world systems using AI + Web 🚀
+**Tech Stack:** Next.js, Node.js, MongoDB, Firebase, Google AI Studio API
+
+---
+
+# Research
+
+### Published Research Paper
+https://jsiar.com/JSIAR-A-25-04107.html
+
+---
+
+# Tech Stack
+
+## Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" />
+</p>
+
+## Frontend & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,nodejs" />
+</p>
+
+## Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,vscode" />
+</p>
+
+## Libraries & Platforms
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black" />
+</p>
+
+---
+
+# GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AKabhishek9&show_icons=true&theme=tokyonight" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKabhishek9&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ak-abhishek9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/AKabhishek9" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://myportfolio-2dc17.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="mailto:abhishek101242144@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# Currently Learning
+
+- Advanced Full Stack Development
+- AI-powered Applications
+- Backend Architecture & APIs
+- Competitive Programming and DSA
+
+---
+
+# Fun Fact
+
+I enjoy building real-world applications that combine AI and Web Development to solve practical problems.
