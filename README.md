@@ -94,10 +94,6 @@ https://jsiar.com/JSIAR-A-25-04107.html
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="https://github.com/AKabhishek9" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-
   <a href="https://myportfolio-2dc17.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
