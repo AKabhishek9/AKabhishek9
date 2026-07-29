@@ -60,7 +60,7 @@ Reviewed and compared classical ML methods (SVM, Random Forest, k-NN) against de
 
 ---
 
-# GitHub & LeetCode Stats
+# LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/ak_abhishek9?theme=dark&font=baloo_2" />
