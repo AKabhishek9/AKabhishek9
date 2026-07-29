@@ -21,42 +21,6 @@ Full Stack Developer • AI Engineer • Published Researcher
 
 ---
 
-# Projects
-
-### 💰 Money Ledger — AI-Powered Personal Finance Tracker
-Offline-first expense, wallet, and loan tracker with automatic balance calculation and real-time sync. IndexedDB (Dexie.js) stores data locally first, then syncs to Firebase once connectivity returns — with the Gemini API surfacing spending insights, plus PDF/CSV export and multi-device sync.
-
-**Tech Stack:** Next.js, TypeScript, Firebase, Dexie.js, Gemini API
-
-🔗 [Live App](https://moneyai-e3cf9.web.app/) · [Repo](https://github.com/AKabhishek9/Money-Ledger)
-
----
-
-### 🧠 QuizAI — AI-Powered Adaptive Quiz Platform
-Full-stack adaptive learning platform generating quizzes in real time with Google Gemini 2.5 Flash, adjusting difficulty to each user's performance history. Includes a global leaderboard and an XP-based analytics dashboard.
-
-**Tech Stack:** Next.js 15, Node.js/Express, MongoDB Atlas, Firebase Auth, Gemini API, Groq API
-
-🔗 [Live App](https://quizai-ak.vercel.app/) · [Repo](https://github.com/AKabhishek9/quizAI)
-
----
-
-### 👁️ ArkFace — Real-Time Face Recognition System
-Multi-face recognition system with live webcam detection, facial landmark extraction, and identity matching via ArcFace embeddings — reaches ~90% accuracy under low-light and partial-occlusion conditions.
-
-**Tech Stack:** Python, OpenCV, MediaPipe, ArcFace
-
-🔗 [Download (.exe)](https://www.mediafire.com/file/bm9u5f90ocop26r/ArkFace_Vision_Release.zip/file)
-
----
-
-### 🌦️ Weather Web Application
-Responsive weather app using the OpenWeatherMap API with real-time updates and a 5-day forecast.
-
-**Tech Stack:** HTML, CSS, JavaScript, REST API
-
----
-
 # Research
 
 ### 📄 Published Paper — 1st Author
