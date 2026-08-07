@@ -15,7 +15,7 @@ Full Stack Developer • AI Engineer • Published Researcher
 - 🎓 B.Tech Computer Science Student @ Noida International University (2023 – 2027)
 - 📝 Published first-author researcher — AI algorithms for predictive maintenance ([JSIAR, 2025](https://jsiar.com/JSIAR-A-25-04107.html))
 - 💻 Shipped 3 full-stack/AI projects end-to-end: an offline-first fintech app, an adaptive AI quiz platform, and a real-time computer vision system
-- 🧩 180+ DSA problems solved on LeetCode (Java, C, C++) with a 100-day daily-solving streak
+- 🧩 200+ DSA problems solved on LeetCode (Java, C) with a 100-day daily-solving streak
 - 🌱 Strong foundation in DSA, DBMS, Operating Systems, and Computer Networks
 - 🚀 Interested in building scalable, real-world software products
 
