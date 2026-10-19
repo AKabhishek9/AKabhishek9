@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Abhishek Yadav 👋</h1>
 <h3 align="center">
-Developer • AI Engineer 
+Developer
 </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=4F46E5&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Published+Researcher;Open+Source+Contributor;Building+Real-World+AI+Products" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=4F46E5&size=24&center=true&vCenter=true&width=700&lines=Developer;AI+Enthusiast;Published+Researcher;Open+Source+Contributor;Building+Real-World+AI+Products" />
   </a>
 </p>
 
